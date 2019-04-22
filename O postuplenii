@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> О поступлении </title>
+<style>
+		   body { 
+			margin: 0; /* Убираем отступы */
+		   }
+		   .parent {
+			background: #006 /* Цвет фона */
+			padding: 5px; /* Поля вокруг текста */
+		   } 
+		   .child {
+			border: 3px solid #666; /* Параметры рамки */
+			padding: 30px; /* Поля вокруг текста */
+			margin: 10px; /* Отступы вокруг */
+			margin-left: 5%; /* Отступ слева */
+			width: 60%; /* Ширина слоя */
+			background: #005		   }
+		  </style>
+</head>
+<body background="Коллаж2.jpg" alt="Коллаж2">
+<font color="blake"> <font size="5">
+<br>
+<br>
+<center><div class="child">
+<h1><font face="Tahoma">О поступлении</font></h1>
+&nbsp <font face="Tahoma">Во многих вузах есть кафедры бизнес-информатики. Эти кафедры можно 
+
+разделить на две группы:
+бюджетные и платные. В каждом вузе свои проходные баллы на эту
+дисциплину. <br>
+<br>
+<ol><font face="Tahoma">Вузы с бюджетными местами на кафедру бизнес-информатики</ol>
+
+<li><a href="https://www.rea.ru/"> <font color="blake"> <font face="Tahoma">РЭУ им. Плеханова: 
+
+</font></font> </a><font face="Tahoma"> средний балл ЕГЭ 2019 - от 74.33. Стоимость платных мест - 
+
+от 100 000 рублей в год </font>
+
+<li><a href="https://www.hse.ru/"> <font color="blake"> <font face="Tahoma">ВШЭ НИИ: </font></font> 
+
+</a><font face="Tahoma"> средний балл ЕГЭ - от 83.65. Стоимость платных мест - от 350 000 рублей в 
+
+год </font>
+
+<li><a href="http://www.ranepa.ru/"> <font color="blake"> <font face="Tahoma">РАНХиГС: 
+
+</font></font> </a><font face="Tahoma"> средний балл ЕГЭ - от 61.5. Стоимость платных мест - от 100 
+
+000 рублей в год </font>
+
+<li><a href="http://misis.ru/"> <font color="blake"><font face="Tahoma"> НИТУ МИСиС:  </font></font> 
+
+</a><font face="Tahoma">средний балл ЕГЭ - от 74.1. Стоимость платных мест - от 100 000 рублей в год 
+
+</font>
+
+<li><a href="http://www.fa.ru/"> <font color="blake"><font face="Tahoma"> ФУ  </font></font> 
+
+</a><font face="Tahoma">средний балл ЕГЭ - от 66.33. Стоимость платных мест - от 70 000 рублей в год 
+
+ </font>
+
+<li><a href="https://guu.ru/"> <font color="blake"> <font face="Tahoma">ГУУ: </font></font> </a> 
+
+<font face="Tahoma">средний балл ЕГЭ - от 77.45. Стоимость платных мест - от 74 000 рублей в год  
+
+</font>
+
+<li><a href="https://www.mgpu.ru/"> <font color="blake"> <font face="Tahoma">МГПУ: </font></font> 
+
+</a> <font face="Tahoma">средний балл ЕГЭ - от 61. Стоимость платных мест - от 65 000 рублей в год 
+
+</font>
+
+<li><a href="http://rgsu.net/"> <font color="blake"> <font face="Tahoma">РГСУ: </font></font> 
+
+</a><font face="Tahoma"> средний балл ЕГЭ - от 56.33. Стоимость платных мест - от 50 000 рублей в 
+
+год </font>
+
+<li><a href="https://www.muiv.ru/"> <font color="blake"><font face="Tahoma"> Московский университет 
+
+имени Витте </font></font> </a><font face="Tahoma"> средний балл ЕГЭ - от 58.67. Стоимость обучения - от 42 000 рублей в год </font>
+<br>
+<ol><font face="Tahoma">Вузы, где нет бюджетных мест на кафедру бизнес-информатики</ol>
+
+<li><a href="http://ibm1.bmstu.ru/"> <font color="blake"> <font face="Tahoma">МГТУ им. Баумана: 
+
+</font></font> </a> <font face="Tahoma">средний балл ЕГЭ - от 40. Стоимость обучения - 257 572 
+
+рублей в год</font>
+
+<li><a href="http://www.noumei.ru/"> <font color="blake"> <font face="Tahoma">Московский 
+
+экономический институт: </font> </font> </a><font face="Tahoma"> средний балл ЕГЭ - от 54.78. 
+
+Стоимость обучения - от 50 000 рублей в год</font>
+
+<li><a href="http://www.imc-i.ru/"> <font color="blake"><font face="Tahoma">Институт мировых 
+
+цивилизаций:  </font></font> </a><font face="Tahoma"> средний балл ЕГЭ - от 48.3. Стоимость обучения - от 50 000 рублей в год</font>
+
+</body>
+</html>
