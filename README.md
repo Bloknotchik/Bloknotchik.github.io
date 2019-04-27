@@ -1,1 +1,1 @@
-# Bloknotchik.github.io
+# business-informatics.github.io
